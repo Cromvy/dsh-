@@ -1,0 +1,12 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Cromvy DSH Plugins",
+    "zh": "Cromvy 的 DSH 插件"
+  },
+  "description": {
+    "en": "Personal plugin index for DeepSeek Harness, served from this repository.",
+    "zh": "个人 DeepSeek Harness 插件索引，由本仓库直接提供。"
+  },
+  "plugins": []
+}
